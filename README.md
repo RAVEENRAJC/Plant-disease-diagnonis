@@ -28,7 +28,7 @@ This project uses the open-source [PlantVillage dataset](https://www.kaggle.com/
 
 ## 🎥 Demo Video
 
-📽️ [Click here to watch the demo](Plant Disease Diagnosis testing -.mp4)
+📽️ [Click here to watch the demo](https://github.com/RAVEENRAJC/Plant-disease-diagnonis/blob/main/Plant%20Disease%20Diagnosis%20testing%20-.mp4)
 ---
 
 ## ⚙️ Tech Stack
