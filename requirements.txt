@@ -1,0 +1,10 @@
+opencv-python
+numpy
+matplotlib
+tensorflow
+streamlit
+pandas
+networkx
+lime
+scikit-image
+requests
