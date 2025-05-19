@@ -1,10 +1,11 @@
+streamlit
+tensorflow==2.13.0
 opencv-python
 numpy
 matplotlib
-tensorflow
-streamlit
-pandas
-networkx
+Pillow
 lime
 scikit-image
-requests
+pandas
+networkx
+
