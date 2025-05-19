@@ -22,8 +22,13 @@ This project uses the open-source [PlantVillage dataset](https://www.kaggle.com/
 - **AI Support** using **LLM API key** which is used to clarify farmers queries
 - **Text-to-Speech** which is helpful to understand what disease affected the plant by hearing voice instead of reading all informations
 - 📊 **Interactive Web Interface** built with **Streamlit**
-- 🎥 **Demo Video** included for walkthrough
 
+
+---
+
+## 🎥 Demo Video
+
+📽️ [Click here to watch the demo](Plant Disease Diagnosis testing -.mp4)
 ---
 
 ## ⚙️ Tech Stack
